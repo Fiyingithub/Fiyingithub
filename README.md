@@ -1,6 +1,6 @@
 <img src="https://avatars.githubusercontent.com/u/142032833?v=4" width="100" height="100" />
 
-# 👋 Hi, I'm @Fiyingithub - Adekoya Adegbenga
+# 👋 Hi, I'm Adekoya Adegbenga
 
 Frontend wizard, backend adventurer, and overall curious mind on a mission to craft smooth, scalable, and meaningful digital experiences.
 
