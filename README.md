@@ -29,7 +29,7 @@ Frontend Web and Mobile wizard, Intermediate backend adventurer, and overall cur
 ![POSTGRESQL](https://img.shields.io/badge/postgresql-005C84?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
-##My Stats
+## My Stats
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=fiyingithub&theme=radical&show_icons=true" width="%100" height="150px" alt="stats" />
 </p>
